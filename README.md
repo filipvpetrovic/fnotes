@@ -15,3 +15,6 @@ Futhermore it was suggested that we look at how the user is going to recieve the
 
 ###### Ruby installation
 * In order to understand how to install Ruby we used the website http://www.gorails.com which provided guidelines on the installation procedure. 
+
+###### Developer's Comments
+* By completing tutorials on Ruby on Rails framework it enables you to understand the functionality and tools used to create A Ruby on Rails application
