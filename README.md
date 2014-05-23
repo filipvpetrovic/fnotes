@@ -2,9 +2,8 @@
 
 #### Introduction 
 
-To begin we analysed the brief and the PDF document that was provided. 
-We then began to understand why the Application would be useful?
-Once we outlined why the Application would be useful we began to analyse why it should be done electronically?
+* To begin we analysed the brief and the PDF document that was provided. 
+* Once we outlined why the Application would be useful we began to analyse why it should be done electronically?
 We then began to outline the STEPS we would take in order to undertake the project.
 Once the STEPS were formalised we began discovery phase of software to be used and why?	
 Once the software was decided upon to make the App using the Web Application Development library Sinatra with the use of programming language Ruby. 
